@@ -15,6 +15,12 @@
     - ❌ Broke the chain
 - 404 Error implies that it's private repository for now, wait till it's made public
 
+### Credits
+
+- Shoutout to **[James Clear](https://twitter.com/JamesClear)** (Author of Atomic Habits) for sharing the idea of Progress Tracker 
+- **[Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)** (Developer & Lead Instructor) for sharing a printout template with her course
+- And myself 😅 **[Aswin Barath](https://github.com/AswinBarath)** (Owner of Repo) to mix-match ideas into this repository for the first time in my GitHub profile
+
 ### January 2022
 
 | Su | Mo | Tu | We | Th | Fr | Sa |
